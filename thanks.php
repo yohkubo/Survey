@@ -4,7 +4,7 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<title>PHP基礎</title>
 	</head>
-
+<!-- テスト -->
 	<body>
 	<?php
 	$dsn = 'mysql:dbname=phpkiso;host=localhost';
